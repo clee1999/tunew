@@ -1,0 +1,8 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* COULEUR BULLE VOLUME - COLOR BUBBLE VOLUME */
+.jp-volume-bar-value {background: #416DB4;}
+
+/* COULEUR TITRE CHANSON - COLOR SONG TITLE */
+#currentSong, .currentSong {color: #416DB4;}
